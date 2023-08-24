@@ -1,0 +1,8 @@
+{E:/Xilinx Project/ram_test/tb/ex_ram_tb.v} {1 {vlog -work work -vopt {E:/Xilinx Project/ram_test/tb/ex_ram_tb.v}
+Model Technology ModelSim SE vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module ram_tb
+
+Top level modules:
+	ram_tb
+
+} {} {}}

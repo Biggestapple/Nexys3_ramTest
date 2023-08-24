@@ -1,0 +1,41 @@
+m255
+K3
+13
+cModel Technology
+dE:\Z80_design\tb
+vram_ctrl
+V;z1_MRUgzLKLbWzU;FWNB0
+r1
+!s85 0
+31
+IIR>4^V3mSJd@NS[;I6A2a1
+Z0 dE:\Xilinx Project\ram_test\tb
+w1692837854
+8E:/Xilinx Project/ram_test/rtl/ex_ram.v
+FE:/Xilinx Project/ram_test/rtl/ex_ram.v
+L0 13
+Z1 OE;L;10.1c;51
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s90 -reportprogress|300|-work|work|-vopt|E:/Xilinx Project/ram_test/rtl/ex_ram.v|
+!s100 <d`c4I5jN__9>hhlDKNln2
+!s108 1692837867.434000
+!s107 E:/Xilinx Project/ram_test/rtl/ex_ram.v|
+!i10b 1
+vram_tb
+VCRW2<UhheaW;LIL2_B5o31
+r1
+31
+IcL;?ZhH^`fgC_lGOzY[oi0
+Z3 dE:\Xilinx Project\ram_test\tb
+w1692780086
+8E:/Xilinx Project/ram_test/tb/ex_ram_tb.v
+FE:/Xilinx Project/ram_test/tb/ex_ram_tb.v
+L0 1
+R1
+R2
+!s85 0
+!s100 6zL<5m[<DoJ`S?CPhHRDP3
+!s90 -reportprogress|300|-work|work|-vopt|E:/Xilinx Project/ram_test/tb/ex_ram_tb.v|
+!i10b 1
+!s108 1692837867.624000
+!s107 E:/Xilinx Project/ram_test/tb/ex_ram_tb.v|
